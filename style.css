@@ -222,7 +222,7 @@ body {
   /* special */
   /* background: #221054; */
   background: #F99485;
-  background: linear-gradient(0deg, #FDA646 0%, #d24b5e 100%);
+  background: linear-gradient(0deg, #9D165F 0%, #d24b5e 100%);
   top: 0;
 }
 
@@ -339,7 +339,7 @@ body {
   /* background-color: red; */
   /* background-color: #3d182a; */
   background: #F99485;
-  background: linear-gradient(0deg, #DA4D51 0%, #FDA646 100%);
+  background: linear-gradient(0deg, #8A0D67 0%, #9D165F 100%);
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -476,7 +476,7 @@ body {
 
 #sponsors{
   background: #F99485;
-  background: linear-gradient(0deg, #FDA646 0%, #DA4D51 100%);
+  background: linear-gradient(0deg, #9D165F 0%, #8A0D67 100%);
 }
 
 #sponsor-logos {
@@ -567,8 +567,7 @@ body {
 #team{
   /* background-color:greenyellow; */
   background: #F99485;
-  background: linear-gradient(0deg, #732E09  4%, #A13516  46%, #DA4D51 90%);
- 
+  background: linear-gradient(0deg, #D04A5D 0%, #9D165F 100%); 
 }
 
 #organizers p{
