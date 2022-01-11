@@ -432,11 +432,12 @@ body {
 }
 
  /* KEYNOTE */
- /*#keynote{
+ #keynote{
     /* background-color:greenyellow; */
-    background:#732E09; 
-    background: linear-gradient(0deg, #DA4D51 10%, #F99485 58%, #FDA646 100%);
- }*/
+    /*background:#732E09; */
+    /*background: linear-gradient(0deg, #DA4D51 10%, #F99485 58%, #FDA646 100%);*/
+    background: linear-gradient(0deg, #D04A5D 0%, #9D165F 100%); 
+ }
 
  #keynote-info-mobile{
    display: none;
