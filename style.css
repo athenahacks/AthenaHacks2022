@@ -568,7 +568,7 @@ body {
 #team{
   /* background-color:greenyellow; */
   background: #F99485;
-  background: linear-gradient(0deg, #D04A5D 0%, #9D165F 100%); 
+  background: linear-gradient(0deg, #9D165F 0%, #8A0D67 100%); 
 }
 
 #organizers p{
@@ -623,7 +623,7 @@ body {
 #footer {
   width: 100%;
   /* background-color: #5c3e66; */
-  background-color: #522106;
+  background-color: #D04A5D; /*522106*/
   /* opacity: 0.1;*/
   padding: 15px;
   overflow: hidden;
