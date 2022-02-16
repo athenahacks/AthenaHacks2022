@@ -528,14 +528,14 @@ body {
 
 
 .tier2 img {
-  width: 40vw;
+  max-width: 40vw;
   padding: 0 10px 20px 20px;
 }
 
 .tier3 img {
-  width: 32vw;
+  max-width: 32vw;
   padding: 20px 10px 30px 30px;
-  /* height: 10vh; */
+  max-height: 20vh;
 }
 
 /* their logo has a weird thing that makes it small looking so u gotta fake it being bigger */
@@ -544,12 +544,12 @@ body {
 }
 
 .tier4 img {
-  width: 22vw;
+  max-width: 22vw;
   padding: 0 10px 20px 20px;
 }
 
 .tier5 img {
-  width: 16vw;
+  max-width: 16vw;
   padding: 0 10px 30px 30px;
 }
 
@@ -1024,22 +1024,22 @@ body {
 
   .tier3 img{
     padding: 10px 5px;
-    width: 78%;
+    height: 78%;
   }
 
   .tier2 img {
     padding: 10px 5px;
-    width: 100%;
+    height: 100%;
   }
 
   .tier4 img {
     padding: 10px 5px;
-    width: 50%;
+    height: 50%;
   }
 
   .tier5 img {
     padding: 10px 5px;
-    width: 60%;
+    height: 60%;
   }
 
   #pinnacle{
